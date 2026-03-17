@@ -2,10 +2,20 @@
 
 ## 📌 Task 01: Calculator Test Cases
 
-This repository contains test cases for a simple calculator application.
+This repository contains detailed test cases for a simple calculator application.
 
-### ✅ Covered Areas:
-- Addition, Subtraction, Multiplication, Division
+## ✅ Features Covered
+- Addition
+- Subtraction
+- Multiplication
+- Division
 - BODMAS rules
+- Valid inputs (positive, negative, decimals)
+- Invalid inputs (non-numeric, division by zero)
 - Edge cases
-- Invalid inputs
+
+## 📂 Files
+- test-cases.md → Contains all test cases
+
+## 🚀 Author
+Athira R Nair
